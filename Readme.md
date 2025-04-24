@@ -44,10 +44,10 @@ The analysis involves the following steps:
 2. **Exploratory Data Analysis (EDA)**:
    - Visualizing distributions, correlations, and class imbalances.
 3. **Modeling**:
-   - Testing various machine learning algorithms such as Logistic Regression, Decision Trees, Random Forests, and Gradient Boosting.
+   - Testing various machine learning algorithms such as Logistic Regression.
    - Hyperparameter tuning to optimize model performance.
 4. **Evaluation**:
-   - Using metrics like accuracy, precision, recall, F1-score, and ROC-AUC to assess model performance.
+   - Using metrics like accuracy, precision, recall, F1-score to assess model performance.
 
 ## Technologies Used
 This project is implemented using:
