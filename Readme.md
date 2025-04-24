@@ -60,10 +60,10 @@ This project is implemented using:
 
 ## Results
 The final model achieved the following performance metrics:
-- Accuracy: XX%
-- Precision: XX%
-- Recall: XX%
-- F1-Score: XX%
+- Accuracy: 74%
+- Precision: 74%
+- Recall: 74%
+- F1-Score: 74%
 
 
 
